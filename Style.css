@@ -1,0 +1,32 @@
+.h1{
+    border: 10px;
+    color: white;
+    /* background-color: rgb(202, 216, 173); */
+    border: solid;
+    text-align: center;
+    box-shadow: 10px 10px 30px;
+}
+.container-fluid{
+    
+    color: white;
+    /* background-color: rgb(222, 211, 201); */
+
+}
+ 
+ .sh1{
+    border: 10px;
+    color: white;
+    /* background-color: rgb(202, 216, 173); */
+    border: solid;
+    text-align: center;
+    box-shadow: 10px 10px 30px;
+ }
+ .oh1{
+    border: 10px;
+    color: white;
+    /* background-color: rgb(202, 216, 173); */
+    border: solid;
+    text-align: center;
+    box-shadow: 10px 10px 30px;
+ }
+ 
